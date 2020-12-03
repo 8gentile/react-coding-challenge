@@ -1,6 +1,6 @@
-# Stan Coding Challenge
+# Highlight Coding Challenge
 
-> Welcome to the Stan Coding Challenge!
+> Welcome to the Highlight Coding Challenge!
 
 ## Overview
 
